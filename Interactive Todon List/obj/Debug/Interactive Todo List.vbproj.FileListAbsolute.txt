@@ -1,0 +1,126 @@
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\Interactive Todon List.dll.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\Interactive Todon List.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\Interactive Todon List.pdb
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\Interactive Todon List.xml
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\csc.exe
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\csc.exe.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\csc.rsp
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\csi.exe
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\csi.exe.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\csi.rsp
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.AppContext.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Console.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.IO.Compression.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Net.Http.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Net.Sockets.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.ValueTuple.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Xml.XPath.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\vbc.exe
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\vbc.exe.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\vbc.rsp
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\VBCSCompiler.exe
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\obj\Debug\Interactive Todo List.vbproj.AssemblyReference.cache
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\obj\Debug\Interactive_Todon_List.Resources.resources
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\obj\Debug\Interactive Todo List.vbproj.GenerateResource.cache
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\obj\Debug\Interactive Todo List.vbproj.CoreCompileInputs.cache
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\obj\Debug\Interactive Todo List.vbproj.CopyComplete
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\obj\Debug\Interactive Todon List.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\obj\Debug\Interactive Todon List.xml
+C:\Users\satyasrinivaskola\source\repos\Interactive Todon List\Interactive Todon List\obj\Debug\Interactive Todon List.pdb
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\Interactive Todon List.dll.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\Interactive Todon List.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\Interactive Todon List.pdb
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\Interactive Todon List.xml
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\csc.exe
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\csc.exe.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\csc.rsp
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\csi.exe
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\csi.exe.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\csi.rsp
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.AppContext.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Console.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.IO.Compression.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Net.Http.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Net.Sockets.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.ValueTuple.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Xml.XPath.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\vbc.exe
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\vbc.exe.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\vbc.rsp
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\VBCSCompiler.exe
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\obj\Debug\Interactive Todo List.vbproj.AssemblyReference.cache
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\obj\Debug\Interactive_Todon_List.Resources.resources
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\obj\Debug\Interactive Todo List.vbproj.GenerateResource.cache
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\obj\Debug\Interactive Todo List.vbproj.CoreCompileInputs.cache
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\obj\Debug\Interact.0E1647B0.Up2Date
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\obj\Debug\Interactive Todon List.dll
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\obj\Debug\Interactive Todon List.xml
+C:\Users\satyasrinivaskola\source\repos\Interactive Todo List\Interactive Todon List\obj\Debug\Interactive Todon List.pdb
